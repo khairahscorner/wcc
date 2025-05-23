@@ -760,3 +760,141 @@
     title: View meetup event
     target: _target
 
+
+- title: |
+    Celebrating International Women's Day
+  description: |
+    Join Women Coding Community, Women in Rust and SurrealDB as we celebrate the progress and achievements of women in technology and innovation!
+  category_style: tech-talk
+  category_name: Tech Talk
+  date: THU, MAR 11, 2025
+  expiration: "20250312"
+  host: ""
+  speaker: ""
+  time: 6:00 PM UTC
+  image:
+    path: "https://secure.meetupstatic.com/photos/event/4/1/1/a/600_526576666.webp"
+    alt: "event cover"
+  link:
+    path: https://www.meetup.com/women-coding-community/events/306483318/
+    title: View meetup event
+    target: _target
+
+- title: |
+    Career Journey in Information Security
+  description: |
+    The Women Coding Community’s Career Club is excited to host a session on Career Journey in Information Security—a field that’s critical to everything we do in tech. From securing systems to protecting user data, cybersecurity is more important than ever, yet women remain underrepresented.
+  category_style: career-talk
+  category_name: Carer Talk
+  date: THU, MAR 20, 2025
+  expiration: "20250321"
+  host: "Julia Babahina"
+  speaker: "Annelie van Milink"
+  time: 8:00 PM UTC
+  image:
+    path: "https://secure.meetupstatic.com/photos/event/b/c/c/5/600_526488325.webp"
+    alt: "event cover"
+  link:
+    path: https://www.meetup.com/women-coding-community/events/306434480
+    title: View meetup event
+    target: _target
+
+
+- title: |
+    Book Club: Designing Machine Learning Systems (Part 2)
+  description: |
+    Part 2 of this bookclub: discussion of chapters 7-11 in the book. You can join even if you couldn’t make it to part 1.  This book will help you tackle scenarios such as:
+    Engineering data and choosing the right metrics to solve a business problem and much more.
+  category_style: book-club
+  category_name: Book Club
+  date: THU, MAR 24, 2025
+  expiration: "20250325"
+  host: "Silke Nodwell and Prabha Venkatesh"
+  speaker: ""
+  time: 8:00 PM UTC
+  image:
+    path: "https://secure.meetupstatic.com/photos/event/c/1/d/d/600_526609629.webp"
+    alt: "event cover"
+  link:
+    path: https://www.meetup.com/women-coding-community/events/306547756/
+    title: View meetup event
+    target: _target
+
+- title: |
+    WCC Annual Mentorship Program Launch
+  description: |
+    We’re excited to invite you to the official launch of the Women Coding Community (WCC) Annual Mentorship Program 2025!
+  category_style: ""
+  category_name: ""
+  date: TUE, APR 8, 2025
+  expiration: "20250409"
+  host: ""
+  speaker: ""
+  time: 7:00 PM BST
+  image:
+    path: "https://secure.meetupstatic.com/photos/event/e/7/1/600_527163697.webp"
+    alt: "event cover"
+  link:
+    path: https://www.meetup.com/women-coding-community/events/307017258/
+    title: View meetup event
+    target: _target
+
+- title: |
+    WIR x WCC: Finding your voice in Tech
+  description: |
+    Join us for an evening of connection, conversation, and career growth at Finding Your Voice in Tech - a monthly meetup co-hosted by Women in Rust and Women Coding Community, 
+    designed to support and empower women at every stage of their tech journey.
+  category_style: "in-person"
+  category_name: "In-Person"
+  date: TUE, APR 15, 2025
+  expiration: "20250416"
+  host: ""
+  speaker: ""
+  time: 6:00 PM BST
+  image:
+    path: "https://secure.meetupstatic.com/photos/event/8/d/2/8/600_526836136.webp"
+    alt: "event cover"
+  link:
+    path: https://www.meetup.com/women-coding-community/events/306774768/
+    title: View meetup event
+    target: _target
+    
+- title: |
+    From Contacts to Careers: the Power of Networking in Tech
+  description: |
+    Invitation: Women Coding Community Career Club Event:
+    Your network is your net worth. - Porter Gale, a marketing expert and author of the book "Your Network Is Your Net Worth".
+  category_style: "career-talk"
+  category_name: "Career Talk"
+  date: THU, APR 17, 2025
+  expiration: "20250418"
+  host: "Madhura Chaganty"
+  speaker: "Julia Babahina"
+  time: 7:00 PM BST
+  image:
+    path: "https://secure.meetupstatic.com/photos/event/9/a/3/c/600_526899484.webp"
+    alt: "event cover"
+  link:
+    path: https://www.meetup.com/women-coding-community/events/306828123/
+    title: View meetup event
+    target: _target 
+
+- title: |
+    SQL Challenge Completion - Celebration Event
+  description: |
+    6-weeks SQL Challenge Completion:
+    This event is a celebration of achievement for all the incredible participants who successfully completed the SQL Data Challenge! 
+  category_style: "celebration"
+  category_name: "Celebration"
+  date: TUE, APR 29, 2025
+  expiration: "20250430"
+  host: "Sonali Goel"
+  speaker: "Busra Ecem Sakar"
+  time: 7:00 PM BST
+  image:
+    path: "https://secure.meetupstatic.com/photos/event/9/c/5/600_527162501.webp"
+    alt: "event cover"
+  link:
+    path: https://www.meetup.com/women-coding-community/events/307093944/
+    title: View meetup event
+    target: _target
