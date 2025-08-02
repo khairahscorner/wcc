@@ -1247,6 +1247,9 @@
     path: https://www.meetup.com/women-coding-community/events/308819145/
     title: View meetup event
     target: _target
+  resources:
+    presentation: /assets/resources/events/tech-talk-290725.pdf
+    youtube: https://youtu.be/Zzrt67Ukk80
 
 - title: "\U0001F3A4 Redefining Influence for Women in Tech"
   description: "Master the Science of Persuasion to Amplify Your Impact   Are you ready to transform how you show up in rooms that matter? In tech, competence alone doesn\u2019t drive influence - presence does.\n"
