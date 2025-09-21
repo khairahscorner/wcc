@@ -1,11 +1,12 @@
 ## How to Run Python Scripts
 
-There are two automation scripts:
-1) `automation.py`: appends new mentors in `samples/mentors.xslx` to `_data/mentor.yml`
+1) `automation_mentors.py`: appends new mentors in `samples/mentors.xslx` to `_data/mentor.yml` (or updates all existing mentors if using WRITE mode)
 
 2) `download_image.py`: downloads image from a specified URL and saves in `assets/images/mentors`
 
-3) `automation_create_mentor_spreadsheets.py`: creates spreadhseets for each longterm mentor with filenames like `WCC - Long Term - MentorName.xlsx`. All the files are saved in a folder named `Long Term Mentors`. It uses the data from `Mentorship Programme long-term Registration Form for Mentees (Responses).xlsx` sheetname `Revised Mentees`as input.
+3) `meetup_import.py`: imports new upcoming events from the WCC MeetUp page using the iCal feed: https://www.meetup.com/women-coding-community/events/ical/
+
+4) `automation_create_mentor_spreadsheets.py`: creates spreadhseets for each longterm mentor with filenames like `WCC - Long Term - MentorName.xlsx`. All the files are saved in a folder named `Long Term Mentors`. It uses the data from `Mentorship Programme long-term Registration Form for Mentees (Responses).xlsx` sheetname `Revised Mentees`as input.
 
 ### Dependencies
 
@@ -13,15 +14,18 @@ python 3.11 or above
 
 ### How to Execute on Mac
 
-#### A) `automation.py`
+#### A) `automation_mentors.py`
 
 ```shell
-sh run_automation.sh
+sh run_mentor_automation.sh
 ```
 **Note:** 
 - Ensure to update `mentors.xslx` with the new spreadsheet containing the mentors to be added, **OR** 
-- adjust the `FILE_PATH_MENTORS_XLSX` parameter in [the script](run_automation.sh) to match the file path for the new spreadsheet.
+- adjust the `FILE_PATH_MENTORS_XLSX` parameter in [the script](run_mentor_automation.sh) to match the file path for the new spreadsheet.
+- adjust the `CURRENT_PERIOD` parameter in [the script](run_mentor_automation.sh) if running during long-term registration period (use "long-term")
 
+- After running the script, you **HAVE** to run the [run_download_automation script](run_download_automation.sh) to download images for each new mentor. Else, the image links will be broken as they do not exist yet.
+- If using the script to update all mentors, update `run_mentor_automation.sh` to use WRITE mode
 
 #### B) `download_image.py`
 
