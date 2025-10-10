@@ -70,7 +70,7 @@
 - name: Adriana Zencke Zimmermann
   disabled: false
   matched: false
-  sort: 100
+  sort: 200
   num_mentee: 1
   hours: 2
   bio: |
@@ -81,7 +81,7 @@
   type: both
   index: 3
   languages: Portuguese, English
-  availability: []
+  availability: [10]
   skills:
     experience: 10-15 years
     years: 15
@@ -203,7 +203,7 @@
 - name: Madhura Chaganty
   disabled: false
   matched: false
-  sort: 100
+  sort: 200
   hours: 2
   type: ad-hoc
   index: 7
@@ -215,7 +215,7 @@
   image: assets/images/mentors/madhura_chaganty.jpeg
   location: United Kingdom
   languages: English
-  availability: []
+  availability: [10]
   skills:
     experience: 16+ Years
     years: 16
@@ -239,7 +239,7 @@
 - name: Sonali Goel
   disabled: false
   matched: false
-  sort: 100
+  sort: 200
   num_mentee: 1
   hours: 2
   position: Lead Engineer, Tesco Technology
@@ -250,7 +250,7 @@
     Sonali serves as a Lead Engineer at Yoox-Net-a-porter, specializing in managing and constructing extensive-scale ecommerce solutions. She leverages Java-based commerce platforms and integrates them with open-source technologies like Spring Boot and Spring Batch. As an AWS-certified Solution Architect, she possesses deep knowledge of Amazon Web Services, complemented by proficiency in implementing continuous integration and continuous deployment (CICD) practices to ensure seamless software delivery. Additionally, she excels in architecting and implementing microservices-based architectures to drive agility and modularity in software development With over 13 years of experience in the technology industry, Sonali brings a wealth of expertise in steering technical direction and fostering high-performance outcomes. Her passion lies in nurturing a culture of continuous learning and innovation. Outside of her professional endeavors, Sonali actively volunteers with Women Who Code, advocating for gender diversity. She is also a creative enthusiast, utilizing design templates to convey ideas, thoughts, and emotions visually.
   image: assets/images/mentors/sonali_goel.jpg
   languages: English
-  availability: []
+  availability: [10]
   skills:
     experience: 10-15 Years
     years: 15
@@ -1618,7 +1618,7 @@
 - name: Samuela Smolorz
   disabled: false
   matched: false
-  sort: 100
+  sort: 200
   num_mentee: 1
   hours: 2
   type: both
@@ -1630,7 +1630,7 @@
   image: |
     assets/images/mentors/samuela_smolorz.jpeg
   languages: English, Polish
-  availability: []
+  availability: [10]
   skills:
     experience: 2-4 Years
     years: 4
@@ -1662,7 +1662,7 @@
 - name: Arzu Caner
   disabled: false
   matched: false
-  sort: 100
+  sort: 200
   hours: 3
   type: ad-hoc
   index: 50
@@ -1677,7 +1677,7 @@
   image: |
     assets/images/mentors/arzu_caner.jpeg
   languages: English, Turkish
-  availability: []
+  availability: [10]
   skills:
     experience: 2-4 Years
     years: 4
@@ -2899,7 +2899,7 @@
 - name: Mudit Maheshwari
   disabled: false
   matched: false
-  sort: 500
+  sort: 200
   num_mentee: 4
   hours: 2
   type: both
@@ -2939,7 +2939,7 @@
 - name: Anh Vu
   disabled: false
   matched: false
-  sort: 500
+  sort: 200
   num_mentee: 3
   hours: 3
   type: both
