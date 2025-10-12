@@ -2972,3 +2972,76 @@
       Prep for technical interview, resume feedback, technical mentorship, navigating interpersonal relationships in the workplace, career development.
   network:
   - linkedin: https://www.linkedin.com/in/anh-vu-5484bbab/
+
+- name: Mentor2 Name
+  disabled: false
+  matched: false
+  sort: 500
+  num_mentee: 1
+  hours: 2
+  type: ad-hoc
+  index: 87
+  location: United Kingdom/London
+  position: Fullstack Developer, InnoAl Tech Solution
+  bio: |
+    Arzu began her career in the telecommunications sector, specializing in CRM systems and marketing. After earning her master's degree in marketing, she successfully led customer loyalty and retention projects as a Marketing and Customer Relationship Manager, developing and implementing strategic campaigns aimed at enhancing customer satisfaction and loyalty. Additionally, she provided system and product training as an instructor.
+
+    She then made significant contributions as a digital project manager, supporting the growth and development of startups, and has a strong background in SEO. With a keen interest in technological advancements, Arzu transitioned into software development, initially focusing on databases and leveraging emerging technologies to optimize data management. She currently works on mobile and web application development, where she innovates solutions to improve user experience and performance. 
+
+    Arzu shares her career journey and technical insights through blog posts and serves as an evangelist in the Women Coding Community, actively promoting the advancement of women in technology.
+  image: |
+    assets/images/mentors/mentor2_name.jpeg
+  languages: English, Turkish
+  availability: [9, 10, 11]
+  skills:
+    experience: 2-4 Years
+    years: 4
+    mentee: |
+      Those who are changing their careers, interested in app development.
+    areas:
+    - Fullstack Developer
+    languages: Javascript
+    focus:
+    - Grow from beginner to mid-level
+    extra: |
+      Career change, app development, software development, GitHub, hackathons, technical writing, React, React Native, JavaScript, Node.js, MongoDB
+  network:
+  - linkedin: https://www.linkedin.com/in/mentor2/
+  - medium: https://mentor2.medium.com/,
+  - website: http://webpage/mentor2,
+  - website: www.somepageformentoring.com,
+  - youtube: https://www.youtube.com/channel/mentor2
+
+- name: Mentor3 Name
+  disabled: false
+  matched: false
+  sort: 500
+  num_mentee: 2
+  hours: 4
+  type: both
+  index: 88
+  location: London, UK
+  position: Software Engineer, Cado Security (just bought by DarkTrace)
+  bio: |
+    I have been a software engineer for a few years now. Before that I was a data scientist for a short period, and before being a data scientist I was a data analyst.
+  image: |
+    assets/images/mentors/mentor3_name.jpeg
+  languages: English, French
+  availability: [5, 6, 7, 8, 9, 10, 11]
+  skills:
+    experience: 4-5 Years
+    years: 5
+    mentee: |
+      Juniors.
+    areas:
+    - Frontend Developer
+    - Fullstack Developer
+    - Backend Developer
+    languages: Javascript
+    focus: []
+    extra: |
+      Get your first job in SE / How it is being a woman in tech / Mock interviews
+  network:
+  - linkedin: https://uk.linkedin.com/in/mentor3
+  - medium: https://medium.com/@mentor3
+  - github: https://github.com/mentor3
