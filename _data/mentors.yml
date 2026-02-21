@@ -1978,10 +1978,10 @@
 - name: Faith Sodipe
   disabled: false
   matched: false
-  sort: 10
+  sort: 500
   num_mentee: 5
   hours: 5
-  type: long-term
+  type: both
   index: 89
   location: United Kingdom / Manchester
   position: Software Engineer, AMScreen
@@ -2002,7 +2002,7 @@
     - Backend Developer
     - Fullstack Developer
     - Distributed Systems
-    languages: C#
+    languages: C#, Dart
     focus:
     - Grow from beginner to mid-level
     - Change specialisation within IT
